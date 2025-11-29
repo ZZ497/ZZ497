@@ -6,21 +6,19 @@
 I'm a Multiplatform Application Development student who loves learning new technologies and building real projects.  
 I'm autodidact, curious, and always improving my skills step by step.  
 I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'm also comfortable with backend logic and databases.  
-I have a C1 Cambridge English level, which helps me stay up-to-date with global developer communities and documentation.
 
 ---
 
 ## 🚀 Projects  
-*(You can update these links once you separate your repositories. For now, placeholders are included.)*
 
-- **Car Consumption Calculator (JavaScript Web App)** — *Personal project*  
-  👉 https://github.com/ZZ497/car-consumption-app *(update when ready)*
+- **Car Consumption Table (JavaScript)** — *Personal project*  
+  👉 https://github.com/ZZ497/projecto-tabla-consumo-coches
 
-- **Programming Fundamentals (Java & Kotlin)** — *All first-year exercises & mini-apps*  
-  👉 https://github.com/ZZ497/programacion *(or split into Java/Kotlin repos)*
+- **Programming Fundamentals (Java & Kotlin)** — *Final exam of Kotlin*  
+  👉 https://github.com/ZZ497/Game-of-Thrones-Kotlin
 
-- **Swift Basics App** — *First experiments with Swift & iOS development*  
-  👉 https://github.com/ZZ497/swift-learning *(optional placeholder)*
+- **F1 Results (Kotlin)** — *Project of F1 Championship Standings*  
+  👉 https://github.com/ZZ497/results-f1-kotlin
 
 ---
 
