@@ -17,7 +17,7 @@ I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'
 - **Car Consumption Table (JavaScript)** — *Personal project*  
   👉 https://github.com/ZZ497/projecto-tabla-consumo-coches
 
-  - **ServiHogar App (Swift)** — *Final project of the Degree*  
+- **ServiHogar App (Swift)** — *Final project of the Degree*  
   👉 https://github.com/ZZ497/Proyecto-ServiHogar
 
 - **App Fundamentals (Kotlin)** — *Final exam of Kotlin*  
