@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a Multiplatform Application Development student who loves learning new technologies and building real projects.  
+I'm a Multiplatform Application Development graduate who loves learning new technologies and building real projects.  
 I'm autodidact, curious, and always improving my skills step by step.  
 I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'm also comfortable with backend logic and databases.  
 
@@ -16,6 +16,9 @@ I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'
 
 - **Car Consumption Table (JavaScript)** — *Personal project*  
   👉 https://github.com/ZZ497/projecto-tabla-consumo-coches
+
+  - **ServiHogar App (Swift)** — *Final project of the Degree*  
+  👉 https://github.com/ZZ497/Proyecto-ServiHogar
 
 - **App Fundamentals (Kotlin)** — *Final exam of Kotlin*  
   👉 https://github.com/ZZ497/Game-of-Thrones-Kotlin
