@@ -11,20 +11,15 @@ I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'
 
 ## 🚀 Projects  
 
- - **Personal website** 
-  👉 https://zz497.github.io/portafolio-personal/
+ - **Personal website** 👉 https://diegolijarcio388.github.io/portafolio-personal/
 
-- **Car Consumption Table (JavaScript)** — *Personal project*  
-  👉 https://github.com/ZZ497/projecto-tabla-consumo-coches
+- **Car Consumption Table (JavaScript)** — *Personal project* 👉 https://github.com/diegolijarcio388/projecto-tabla-consumo-coches
 
-- **ServiHogar App (Swift)** — *Final project of the Degree*  
-  👉 https://github.com/ZZ497/Proyecto-ServiHogar
+- **ServiHogar App (Swift)** — *Final project of the Degree* 👉 https://github.com/diegolijarcio388/Proyecto-ServiHogar
 
-- **App Fundamentals (Kotlin)** — *Final exam of Kotlin*  
-  👉 https://github.com/ZZ497/Game-of-Thrones-Kotlin
+- **App Fundamentals (Kotlin)** — *Final exam of Kotlin* 👉 https://github.com/diegolijarcio388/Game-of-Thrones-Kotlin
 
-- **F1 Results (Kotlin)** — *Project of F1 Championship Standings*  
-  👉 https://github.com/ZZ497/results-f1-kotlin
+- **F1 Results (Kotlin)** — *Project of F1 Championship Standings* 👉 https://github.com/diegolijarcio388/results-f1-kotlin
 
 ---
 
@@ -81,5 +76,5 @@ I enjoy working with modern languages like Kotlin, Swift, and JavaScript, and I'
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ZZ497/ZZ497/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://github.com/diegolijarcio388/diegolijarcio388/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
